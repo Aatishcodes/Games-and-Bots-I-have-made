@@ -1,0 +1,22 @@
+#heading 
+{
+    text-align:center; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+    
+body
+{
+    text-align:center;
+    background-color: cornflowerblue;
+}
+img
+{
+    width:350px;
+}
+h2
+{
+    font-family: 'Nerko One', cursive;
+    text-decoration: underline;
+    text-decoration-color: azure;
+    font-size: 40px;;
+}
